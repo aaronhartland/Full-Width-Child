@@ -1267,7 +1267,7 @@ input:hover[type="submit"] {
 
 #footer .wrap {
 	overflow: hidden;
-	padding: 10px 15px;
+	padding: 10px 0;
 }
 
 #footer p {
@@ -1561,6 +1561,12 @@ div.gform_wrapper .gform_footer {
 	#title-area {
 		float: none;
 		text-align: center;
+	}
+
+	#footer .creds,
+	#footer .gototop {
+		padding: 10px 15px;
+		width: auto;
 	}
 
 	#title-area {
