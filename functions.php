@@ -12,6 +12,9 @@ function add_viewport_meta_tag() {
     echo '<meta name="viewport" content="width=device-width, initial-scale=1.0"/>';
 }
 
+/** Create additional color style options */
+add_theme_support( 'genesis-style-selector', array( 'theme-green' => 'Green', 'theme-orange' => 'Orange', 'theme-red' => 'Red', 'theme-teal' => 'Teal' ) );
+
 /** Add support for custom background */
 // add_custom_background();
 

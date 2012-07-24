@@ -1416,6 +1416,150 @@ div.gform_wrapper .gform_footer {
 }
 
 
+/* Theme Green
+------------------------------------------------------------ */
+
+.theme-green a,
+.theme-green a:visited,
+.theme-green .post-comments a:hover,
+.theme-green #header .menu a:hover,
+.theme-green #header .menu .current_page_item a,
+.theme-green #header .menu .current-cat a,
+.theme-green #header .menu .current-menu-item a,
+.theme-green .menu-primary a:hover,
+.theme-green .menu-primary .current_page_item a,
+.theme-green .menu-primary .current-cat a,
+.theme-green .menu-primary .current-menu-item a,
+.theme-green .menu-secondary a:hover,
+.theme-green .menu-secondary .current_page_item a,
+.theme-green .menu-secondary .current-cat a,
+.theme-green .menu-secondary .current-menu-item a,
+.theme-green .more-link {
+	color: #80bf61;
+}
+
+.theme-green a:hover,
+.theme-green h2 a,
+.theme-green h2 a:visited,
+.theme-green #header .menu a,
+.theme-green .menu-primary a,
+.theme-green .menu-secondary a {
+	color: #333;
+}
+
+.theme-green h2 a:hover {
+	color: #80bf61;
+}
+
+
+/* Theme Orange
+------------------------------------------------------------ */
+
+.theme-orange a,
+.theme-orange a:visited,
+.theme-orange .post-comments a:hover,
+.theme-orange #header .menu a:hover,
+.theme-orange #header .menu .current_page_item a,
+.theme-orange #header .menu .current-cat a,
+.theme-orange #header .menu .current-menu-item a,
+.theme-orange .menu-primary a:hover,
+.theme-orange .menu-primary .current_page_item a,
+.theme-orange .menu-primary .current-cat a,
+.theme-orange .menu-primary .current-menu-item a,
+.theme-orange .menu-secondary a:hover,
+.theme-orange .menu-secondary .current_page_item a,
+.theme-orange .menu-secondary .current-cat a,
+.theme-orange .menu-secondary .current-menu-item a,
+.theme-orange .more-link {
+	color: #ED702B;
+}
+
+.theme-orange a:hover,
+.theme-orange h2 a,
+.theme-orange h2 a:visited,
+.theme-orange #header .menu a,
+.theme-orange .menu-primary a,
+.theme-orange .menu-secondary a {
+	color: #333;
+}
+
+.theme-orange h2 a:hover {
+	color: #ED702B;
+}
+
+
+/* Theme Red
+------------------------------------------------------------ */
+
+.theme-red a,
+.theme-red a:visited,
+.theme-red .post-comments a:hover,
+.theme-red #header .menu a:hover,
+.theme-red #header .menu .current_page_item a,
+.theme-red #header .menu .current-cat a,
+.theme-red #header .menu .current-menu-item a,
+.theme-red .menu-primary a:hover,
+.theme-red .menu-primary .current_page_item a,
+.theme-red .menu-primary .current-cat a,
+.theme-red .menu-primary .current-menu-item a,
+.theme-red .menu-secondary a:hover,
+.theme-red .menu-secondary .current_page_item a,
+.theme-red .menu-secondary .current-cat a,
+.theme-red .menu-secondary .current-menu-item a,
+.theme-red .more-link {
+	color: #AD1114;
+}
+
+.theme-red a:hover,
+.theme-red h2 a,
+.theme-red h2 a:visited,
+.theme-red #header .menu a,
+.theme-red .menu-primary a,
+.theme-red .menu-secondary a {
+	color: #333;
+}
+
+.theme-red h2 a:hover {
+	color: #AD1114;
+}
+
+
+/* Theme Teal
+------------------------------------------------------------ */
+
+.theme-teal a,
+.theme-teal a:visited,
+.theme-teal .post-comments a:hover,
+.theme-teal #header .menu a:hover,
+.theme-teal #header .menu .current_page_item a,
+.theme-teal #header .menu .current-cat a,
+.theme-teal #header .menu .current-menu-item a,
+.theme-teal .menu-primary a:hover,
+.theme-teal .menu-primary .current_page_item a,
+.theme-teal .menu-primary .current-cat a,
+.theme-teal .menu-primary .current-menu-item a,
+.theme-teal .menu-secondary a:hover,
+.theme-teal .menu-secondary .current_page_item a,
+.theme-teal .menu-secondary .current-cat a,
+.theme-teal .menu-secondary .current-menu-item a,
+.theme-teal .more-link {
+	color: #69b5b4;
+}
+
+.theme-teal a:hover,
+.theme-teal h2 a,
+.theme-teal h2 a:visited,
+.theme-teal #header .menu a,
+.theme-teal .menu-primary a,
+.theme-teal .menu-secondary a {
+	color: #333;
+}
+
+.theme-teal h2 a:hover {
+	color: #69b5b4;
+}
+
+
 /* Responsive Design
 ------------------------------------------------------------ */
 
